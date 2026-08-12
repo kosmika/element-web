@@ -193,7 +193,7 @@ exports[`SectionCreationView > Storybook snapshots > renders the creation state 
 <div>
   <div
     class="Flex-module_flex SectionCreationView-module_container"
-    style="--mx-flex-display: flex; --mx-flex-direction: column; --mx-flex-align: start; --mx-flex-justify: start; --mx-flex-gap: var(--cpd-space-6x); --mx-flex-wrap: nowrap;"
+    style="--mx-flex-display: flex; --mx-flex-direction: column; --mx-flex-align: stretch; --mx-flex-justify: start; --mx-flex-gap: var(--cpd-space-6x); --mx-flex-wrap: nowrap;"
   >
     <span
       class="_typography_6v6n8_153 _font-body-md-medium_6v6n8_60"
@@ -231,7 +231,7 @@ exports[`SectionCreationView > Storybook snapshots > renders the edition state 1
 <div>
   <div
     class="Flex-module_flex SectionCreationView-module_container"
-    style="--mx-flex-display: flex; --mx-flex-direction: column; --mx-flex-align: start; --mx-flex-justify: start; --mx-flex-gap: var(--cpd-space-6x); --mx-flex-wrap: nowrap;"
+    style="--mx-flex-display: flex; --mx-flex-direction: column; --mx-flex-align: stretch; --mx-flex-justify: start; --mx-flex-gap: var(--cpd-space-6x); --mx-flex-wrap: nowrap;"
   >
     <form
       class="_root_1o4d9_17"
